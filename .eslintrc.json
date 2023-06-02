@@ -1,0 +1,16 @@
+{
+  "root": true,
+  "env": {
+    "browser": true,
+    "es2022": true,
+    "node": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 13
+  },
+  "extends": [
+    "@nuxtjs/eslint-config-typescript",
+    "plugin:nuxt/recommended",
+    "prettier"
+  ]
+}

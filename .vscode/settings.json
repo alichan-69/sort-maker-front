@@ -1,0 +1,9 @@
+{
+  "typescript.locale": "en",
+  "files.autoSave": "afterDelay",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "stylelint.validate": ["vue", "scss"],
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+}
